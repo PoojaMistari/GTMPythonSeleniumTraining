@@ -1,0 +1,5 @@
+git clone https://github.com/PoojaMistari/GTMPythonSeleniumTraining.git
+
+git config --global user.email "pujawagh01@gmail.com"
+ git config --global user.name "PoojaMistari"
+
